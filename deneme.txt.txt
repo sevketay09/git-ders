@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 merhaba
+=======
+değişiklik
+>>>>>>> 2a8436eb3d2ac176074298e506148c2c3cc09c0c
